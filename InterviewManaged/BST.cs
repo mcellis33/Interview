@@ -38,7 +38,6 @@ namespace Project1
                 bst.Delete(i);
                 //Console.WriteLine(bst);
             }
-
         }
     }
 
